@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72029867-393d-404e-b832-b7396262b56c" name="Default" comment="" />
+    <ignored path="hackathon2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hackathon2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="first.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3076923">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <folding>
+                <marker date="1490630252974" expanded="true" signature="85:104" placeholder="SELECT * FRO..timer..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.0769231">
+              <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_process.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login_process.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.5">
+              <caret line="32" column="45" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="45" />
+              <folding>
+                <marker date="1490426209778" expanded="true" signature="446:463" placeholder="SELECT * FRo..." />
+                <marker date="1490426209778" expanded="true" signature="446:491" placeholder="SELECT * FRO..user..." />
+                <marker date="1490426209778" expanded="true" signature="446:505" placeholder="SELECT * FRO..user..." />
+                <marker date="1490426209778" expanded="true" signature="446:544" placeholder="SELECT * FRO..user..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quizIntermediate.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quizIntermediate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3076923">
+              <caret line="2" column="63" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="63" />
+              <folding>
+                <marker date="1490536870169" expanded="true" signature="450:582" placeholder="SELECT quest..user_quiz_response..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selectLevelQuiz.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selectLevelQuiz.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.7307692">
+              <caret line="108" column="41" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="41" />
+              <folding>
+                <marker date="1490629570354" expanded="true" signature="5602:5624" placeholder="SELECT * FRO..category..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Forum/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32185885">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="e#6#242#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="level_fetch.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/level_fetch.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.461538">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.538462">
+              <caret line="121" column="1" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+              <folding>
+                <marker date="1490531516435" expanded="true" signature="266:305" placeholder="SELECT * FRO..quiz..." />
+                <marker date="1490531516435" expanded="true" signature="504:559" placeholder="SELECT quiz_..user_quiz_score..." />
+                <marker date="1490531516435" expanded="true" signature="767:825" placeholder="SELECT quiz_..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="1188:1195" placeholder="SELECT quiz_..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="1188:1271" placeholder="SELECT quest..quiz..." />
+                <marker date="1490531516435" expanded="true" signature="1188:1290" placeholder="SELECT colum..." />
+                <marker date="1490531516435" expanded="true" signature="1711:1760" placeholder="SELECT quest..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="1711:1791" placeholder="SELECT quest..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="1711:1797" placeholder="SELECT quest..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="2083:2163" placeholder="SELECT curre..user_quiz_beginner_status..." />
+                <marker date="1490531516435" expanded="true" signature="2083:2164" placeholder="SELECT curre..user_quiz_beginner_status..." />
+                <marker date="1490531516435" expanded="true" signature="2452:2582" placeholder="INSERT INTO user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="2805:2872" placeholder="INSERT INTO user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="2805:2873" placeholder="UPDATE `secu..." />
+                <marker date="1490531516435" expanded="true" signature="3116:3215" placeholder="INSERT INTO user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="3628:3698" placeholder="SELECT * FRO..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="4134:4183" placeholder="SELECT quiz_..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="4134:4207" placeholder="SELECT quiz_..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="4134:4210" placeholder="SELECT quiz_..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="4446:4453" placeholder="SELECT * FRO..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="4446:4530" placeholder="SELECT quest..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="4665:4704" placeholder="SELECT * FRO..quiz..." />
+                <marker date="1490531516435" expanded="true" signature="4878:4954" placeholder="SELECT * FRO..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="5190:5251" placeholder="SELECT * FRO..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="5190:5274" placeholder="SELECT quest..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="5190:5280" placeholder="SELECT * FRO..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="5409:5448" placeholder="SELECT * FRO..quiz..." />
+                <marker date="1490531516435" expanded="true" signature="5409:5460" placeholder="SELECT * FRO..quiz..." />
+                <marker date="1490531516435" expanded="true" signature="5641:5718" placeholder="UPDATE user_..." />
+                <marker date="1490531516435" expanded="true" signature="5641:5730" placeholder="UPDATE user_..." />
+                <marker date="1490531516435" expanded="true" signature="5641:5731" placeholder="UPDATE user_..." />
+                <marker date="1490531516435" expanded="true" signature="5641:5744" placeholder="UPDATE user_..." />
+                <marker date="1490531516435" expanded="true" signature="5641:5745" placeholder="UPDATE user_..." />
+                <marker date="1490531516435" expanded="true" signature="6040:6047" placeholder="SELECT * FRO..user_quiz_response..." />
+                <marker date="1490531516435" expanded="true" signature="6040:6224" placeholder="SELECT quiz...quiz..." />
+                <marker date="1490531516435" expanded="true" signature="6040:6225" placeholder="SELECT quiz...quiz..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/timer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.538462">
+              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upgrade_question_response.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upgrade_question_response.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-35.96154">
+              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/selectLevelQuiz.html" />
+        <option value="$PROJECT_DIR$/tester.php" />
+        <option value="$PROJECT_DIR$/cxn.php" />
+        <option value="$PROJECT_DIR$/signup.html" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/process_data.php" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/login_process.php" />
+        <option value="$PROJECT_DIR$/secondpage.php" />
+        <option value="$PROJECT_DIR$/countdown_timer.php" />
+        <option value="$PROJECT_DIR$/quizIntermediate.html" />
+        <option value="$PROJECT_DIR$/redirect.php" />
+        <option value="$PROJECT_DIR$/timer.php" />
+        <option value="$PROJECT_DIR$/submit_question.php" />
+        <option value="$PROJECT_DIR$/quizBeginners.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/upgrade_question_response.php" />
+        <option value="$PROJECT_DIR$/response.php" />
+        <option value="$PROJECT_DIR$/helper.php" />
+        <option value="$PROJECT_DIR$/quizExpert.php" />
+        <option value="$PROJECT_DIR$/level_fetch.php" />
+        <option value="$PROJECT_DIR$/scorepage.php" />
+        <option value="$PROJECT_DIR$/quizIntermediate.php" />
+        <option value="$PROJECT_DIR$/Forum/login.php" />
+        <option value="$PROJECT_DIR$/selectLevelQuiz.php" />
+        <option value="$PROJECT_DIR$/first.php" />
+        <option value="$PROJECT_DIR$/Forum/config.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Forum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackathon2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hackathon2" />
+      <recent name="C:\xampp\htdocs\hackathon2\css" />
+      <recent name="C:\xampp\htdocs\hackathon2\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72029867-393d-404e-b832-b7396262b56c" name="Default" comment="" />
+      <created>1490392729872</created>
+      <option name="number" value="Default" />
+      <updated>1490392729872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25256222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23937008" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/selectLevelQuiz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <marker date="1490629570354" expanded="true" signature="5602:5624" placeholder="SELECT * FRO..category..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upgrade_question_response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <marker date="1490630252974" expanded="true" signature="85:104" placeholder="SELECT * FRO..timer..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jquery.countdownTimer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/harshen-jquery-countdownTimer-d7cfb71/DEMO/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="505" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <marker date="1490531516435" expanded="true" signature="266:305" placeholder="SELECT * FRO..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="504:559" placeholder="SELECT quiz_..user_quiz_score..." />
+            <marker date="1490531516435" expanded="true" signature="767:825" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="1188:1195" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="1188:1271" placeholder="SELECT quest..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="1188:1290" placeholder="SELECT colum..." />
+            <marker date="1490531516435" expanded="true" signature="1711:1760" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="1711:1791" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="1711:1797" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="2083:2163" placeholder="SELECT curre..user_quiz_beginner_status..." />
+            <marker date="1490531516435" expanded="true" signature="2083:2164" placeholder="SELECT curre..user_quiz_beginner_status..." />
+            <marker date="1490531516435" expanded="true" signature="2452:2582" placeholder="INSERT INTO user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="2805:2872" placeholder="INSERT INTO user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="2805:2873" placeholder="UPDATE `secu..." />
+            <marker date="1490531516435" expanded="true" signature="3116:3215" placeholder="INSERT INTO user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="3628:3698" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4134:4183" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4134:4207" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4134:4210" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4446:4453" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4446:4530" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4665:4704" placeholder="SELECT * FRO..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="4878:4954" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="5190:5251" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="5190:5274" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="5190:5280" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="5409:5448" placeholder="SELECT * FRO..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="5409:5460" placeholder="SELECT * FRO..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5718" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5730" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5731" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5744" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5745" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="6040:6047" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="6040:6224" placeholder="SELECT quiz...quiz..." />
+            <marker date="1490531516435" expanded="true" signature="6040:6225" placeholder="SELECT quiz...quiz..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit_question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countdown_timer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quizIntermediate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490536870169" expanded="true" signature="450:582" placeholder="SELECT quest..user_quiz_response..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quizBeginners.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="127" column="30" selection-start-line="127" selection-start-column="15" selection-end-line="127" selection-end-column="30" />
+          <folding>
+            <marker date="1490481648678" expanded="true" signature="300:359" placeholder="SELECT curre..user_quiz_beginner_status..." />
+            <marker date="1490481648678" expanded="true" signature="300:367" placeholder="SELECT curre..user_quiz_beginner_status..." />
+            <marker date="1490481648678" expanded="true" signature="300:407" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490481648678" expanded="true" signature="6736:6755" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="6780:6804" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="6932:6951" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="6976:7000" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="7124:7143" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="7168:7192" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="7387:7414" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="7449:7485" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selectLevelQuiz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <marker date="1490629570354" expanded="true" signature="5602:5624" placeholder="SELECT * FRO..category..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login_process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <marker date="1490426209778" expanded="true" signature="446:463" placeholder="SELECT * FRo..." />
+            <marker date="1490426209778" expanded="true" signature="446:491" placeholder="SELECT * FRO..user..." />
+            <marker date="1490426209778" expanded="true" signature="446:505" placeholder="SELECT * FRO..user..." />
+            <marker date="1490426209778" expanded="true" signature="446:544" placeholder="SELECT * FRO..user..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="55" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490531516435" expanded="true" signature="266:305" placeholder="SELECT * FRO..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="504:559" placeholder="SELECT quiz_..user_quiz_score..." />
+            <marker date="1490531516435" expanded="true" signature="767:825" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="1188:1195" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="1188:1271" placeholder="SELECT quest..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="1188:1290" placeholder="SELECT colum..." />
+            <marker date="1490531516435" expanded="true" signature="1711:1760" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="1711:1791" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="1711:1797" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="2083:2163" placeholder="SELECT curre..user_quiz_beginner_status..." />
+            <marker date="1490531516435" expanded="true" signature="2083:2164" placeholder="SELECT curre..user_quiz_beginner_status..." />
+            <marker date="1490531516435" expanded="true" signature="2452:2582" placeholder="INSERT INTO user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="2805:2872" placeholder="INSERT INTO user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="2805:2873" placeholder="UPDATE `secu..." />
+            <marker date="1490531516435" expanded="true" signature="3116:3215" placeholder="INSERT INTO user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="3628:3698" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4134:4183" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4134:4207" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4134:4210" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4446:4453" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4446:4530" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4665:4704" placeholder="SELECT * FRO..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="4878:4954" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="5190:5251" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="5190:5274" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="5190:5280" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="5409:5448" placeholder="SELECT * FRO..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="5409:5460" placeholder="SELECT * FRO..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5718" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5730" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5731" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5744" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5745" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="6040:6047" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="6040:6224" placeholder="SELECT quiz...quiz..." />
+            <marker date="1490531516435" expanded="true" signature="6040:6225" placeholder="SELECT quiz...quiz..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="103" selection-start-line="42" selection-start-column="103" selection-end-line="42" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <marker date="1490397913276" expanded="true" signature="610:740" placeholder="INSERT INTO owners..." />
+            <marker date="1490397913276" expanded="true" signature="929:1011" placeholder="INSERT INTO user_quiz_score..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quizBeginners.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1490481648678" expanded="true" signature="300:359" placeholder="SELECT curre..user_quiz_beginner_status..." />
+            <marker date="1490481648678" expanded="true" signature="300:367" placeholder="SELECT curre..user_quiz_beginner_status..." />
+            <marker date="1490481648678" expanded="true" signature="300:407" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490481648678" expanded="true" signature="6736:6755" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="6780:6804" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="6932:6951" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="6976:7000" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="7124:7143" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="7168:7192" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="7387:7414" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="7449:7485" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level_fetch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="42" column="103" selection-start-line="42" selection-start-column="103" selection-end-line="42" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0769231">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <marker date="1490397913276" expanded="true" signature="610:740" placeholder="INSERT INTO owners..." />
+            <marker date="1490397913276" expanded="true" signature="929:1011" placeholder="INSERT INTO user_quiz_score..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.countdownTimer.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jquery.countdownTimer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countdown_timer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/harshen-jquery-countdownTimer-d7cfb71/DEMO/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="12" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="505" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redirect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getstarted.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit_question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.423077">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quizExpert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scorepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1490535078394" expanded="true" signature="2523:2707" placeholder="SELECT quiz...quiz..." />
+            <marker date="1490535078394" expanded="true" signature="2523:2708" placeholder="SELECT quiz...quiz..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quizBeginners.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="266" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="283" selection-end-column="0" />
+          <folding>
+            <marker date="1490481648678" expanded="true" signature="300:359" placeholder="SELECT curre..user_quiz_beginner_status..." />
+            <marker date="1490481648678" expanded="true" signature="300:367" placeholder="SELECT curre..user_quiz_beginner_status..." />
+            <marker date="1490481648678" expanded="true" signature="300:407" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490481648678" expanded="true" signature="6736:6755" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="6780:6804" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="6932:6951" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="6976:7000" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="7124:7143" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="7168:7192" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="7387:7414" placeholder="..." />
+            <marker date="1490481648678" expanded="true" signature="7449:7485" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quizProfessional.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/database.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cxn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1490538938680" expanded="true" signature="1351:1411" placeholder="select passw..users..." />
+            <marker date="1490538938680" expanded="true" signature="3376:3549" placeholder="select count..pm..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0769231">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login_process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.5">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="45" />
+          <folding>
+            <marker date="1490426209778" expanded="true" signature="446:463" placeholder="SELECT * FRo..." />
+            <marker date="1490426209778" expanded="true" signature="446:491" placeholder="SELECT * FRO..user..." />
+            <marker date="1490426209778" expanded="true" signature="446:505" placeholder="SELECT * FRO..user..." />
+            <marker date="1490426209778" expanded="true" signature="446:544" placeholder="SELECT * FRO..user..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.538462">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upgrade_question_response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-35.96154">
+          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quizIntermediate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923">
+          <caret line="2" column="63" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="63" />
+          <folding>
+            <marker date="1490536870169" expanded="true" signature="450:582" placeholder="SELECT quest..user_quiz_response..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selectLevelQuiz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7307692">
+          <caret line="108" column="41" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="41" />
+          <folding>
+            <marker date="1490629570354" expanded="true" signature="5602:5624" placeholder="SELECT * FRO..category..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding>
+            <marker date="1490630252974" expanded="true" signature="85:104" placeholder="SELECT * FRO..timer..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level_fetch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.538462">
+          <caret line="121" column="1" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+          <folding>
+            <marker date="1490531516435" expanded="true" signature="266:305" placeholder="SELECT * FRO..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="504:559" placeholder="SELECT quiz_..user_quiz_score..." />
+            <marker date="1490531516435" expanded="true" signature="767:825" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="1188:1195" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="1188:1271" placeholder="SELECT quest..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="1188:1290" placeholder="SELECT colum..." />
+            <marker date="1490531516435" expanded="true" signature="1711:1760" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="1711:1791" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="1711:1797" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="2083:2163" placeholder="SELECT curre..user_quiz_beginner_status..." />
+            <marker date="1490531516435" expanded="true" signature="2083:2164" placeholder="SELECT curre..user_quiz_beginner_status..." />
+            <marker date="1490531516435" expanded="true" signature="2452:2582" placeholder="INSERT INTO user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="2805:2872" placeholder="INSERT INTO user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="2805:2873" placeholder="UPDATE `secu..." />
+            <marker date="1490531516435" expanded="true" signature="3116:3215" placeholder="INSERT INTO user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="3628:3698" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4134:4183" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4134:4207" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4134:4210" placeholder="SELECT quiz_..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4446:4453" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4446:4530" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="4665:4704" placeholder="SELECT * FRO..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="4878:4954" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="5190:5251" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="5190:5274" placeholder="SELECT quest..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="5190:5280" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="5409:5448" placeholder="SELECT * FRO..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="5409:5460" placeholder="SELECT * FRO..quiz..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5718" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5730" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5731" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5744" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="5641:5745" placeholder="UPDATE user_..." />
+            <marker date="1490531516435" expanded="true" signature="6040:6047" placeholder="SELECT * FRO..user_quiz_response..." />
+            <marker date="1490531516435" expanded="true" signature="6040:6224" placeholder="SELECT quiz...quiz..." />
+            <marker date="1490531516435" expanded="true" signature="6040:6225" placeholder="SELECT quiz...quiz..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32185885">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#6#242#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
